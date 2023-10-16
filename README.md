@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **gmni-dev/gmni-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## I'm Austin Hagel, and this is my GitHub profile!
+My pronounds are _he/him/his_.
+
+Right now I am a college student, but I will be graduating soon. I'm also working on a personal project, which is the Frontend of an Ecommerce site using only vanilla JavaScript, CSS, and HTML. I'm doing this to learn more about front-end development, and after this project I will move onto learning some libraries. I'm particularly interested in learning Svelete, however I'm considering choosing React or Angular to become more job ready.
+
+I also have an interest in backend development, and I have SQL and PHP on my plate in order to make progress on learning that. Along with that, I have an interest in art and digital design, though I see those more as hobbies. In particular, I have an interest in UI/Web design, motion design, and 3D modeling/graphics. I also have an interest in game development, and I'm looking to make a project using Godot in early 2024, which will also be nice as I will use that as an opprotunity to make some 3D assets using Blender.
