@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 ## I'm Austin Hagel, and this is my GitHub profile!
 My pronounds are _he/him/his_.
 
-### What I'm Doing
+### 🤔 What I'm Doing
 Right now I am a college student, but I will be graduating soon 🎓. I'm also working on a personal project, which is the Frontend of an Ecommerce site using only vanilla JavaScript, CSS, and HTML . I'm doing this to learn more about front-end development, and after this project I will move onto learning some libraries. I'm particularly interested in learning Svelete, however I'm considering choosing React or Angular to become more job ready 💻.
 
-### My Other Interests
+### 😸 My Other Interests
 I also have an interest in backend development, and I have SQL and PHP on my plate in order to make progress on learning that. Along with that, I have an interest in art and digital design 🎨, though I see those more as hobbies. In particular, I have an interest in UI/Web design, motion design, and 3D modeling/graphics. I also have an interest in game development 🕹️, and I'm looking to make a project using Godot in early 2024, which will also be nice as I will use that as an opprotunity to make some 3D assets using Blender.
 
-### Where I Am
+### 📍 Where I Am
 I have a blog where I talk about what I'm learning (amongst other things) that you can read [here](https://austin.fo/blog)! You can also check out my [personal site](https://austin.fo/) to see what else I have going on.
