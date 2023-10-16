@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm Austin Hagel, and this is my GitHub profile!
+## 👋 I'm Austin Hagel, and this is my GitHub profile!
 My pronounds are _he/him/his_.
 
 ### 🤔 What I'm Doing
