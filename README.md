@@ -36,6 +36,6 @@ Connect with me on [LinkedIn](https://austin.fo/linkedin/)!
 
 # 📍 Where I Am
 
-There are a lot of things I want to learn, but I can't do them all at once unfortunately. Right now I am more focused on my schoolwork and web development, with a touch of web design when I have time.
+There are a lot of things I want to learn, but I can't do them all at once unfortunately. Right now I am more focused on my classes and further learning web development, with a touch of web design when I have time.
 If you want to keep updated, I have a blog where I talk about what I'm learning (amongst other things) that you can read [here](https://austin.fo/blog)!
 You can also check out my [personal site](https://austin.fo/) to see where else you may find me.
