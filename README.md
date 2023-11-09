@@ -16,11 +16,24 @@ Here are some ideas to get you started:
 ## 👋 I'm Austin Hagel, and this is my GitHub profile!
 My pronounds are _he/him/his_.
 
-### 🤔 What I'm Doing
-Right now I am a college student, but I will be graduating soon 🎓. I'm also working on a personal project, which is the Frontend of an Ecommerce site using only vanilla JavaScript, CSS, and HTML . I'm doing this to learn more about front-end development, and after this project I will move onto learning some libraries. I'm particularly interested in learning Svelete, however I'm considering choosing React or Angular to become more job ready 💻.
+## 🤔 What I'm Doing
 
-### 😸 My Other Interests
-I also have an interest in backend development, and I have SQL and PHP on my plate in order to make progress on learning that. Along with that, I have an interest in art and digital design 🎨, though I see those more as hobbies. In particular, I have an interest in UI/Web design, motion design, and 3D modeling/graphics. I also have an interest in game development 🕹️, and I'm looking to make a project using Godot in early 2024, which will also be nice as I will use that as an opprotunity to make some 3D assets using Blender.
+🎓 Finishing up college
+💻 Aspiring to work as a Web Developer
+🛍️ Working on a personal project: an ecommerce site frontend
+🌲 Learning front end frameworks like Svelte, Angular, and React (mostly Svelte right now)
+🖼️ Learning to become a better designer, along with tools like Figma
 
-### 📍 Where I Am
-I have a blog where I talk about what I'm learning (amongst other things) that you can read [here](https://austin.fo/blog)! You can also check out my [personal site](https://austin.fo/) to see what else I have going on.
+## 😸 My Interests & Hobbies
+
+🖥️ Interested in learning backend development languages and frameworks like PHP/Laravel and/or NodeJS
+🎨 Learning art as a hobby
+🦾 Learning some 3D with particular interest in character modeling, rigging, & animation along with product mockups
+🏃 Interested in motion graphics with Adobe After Effects & Blender
+🎮 Making a video game is on my bucket list
+
+## 📍 Where I Am
+
+There are a lot of things I want to learn, but I can't do them all at once unfortunately. Right now I am more focused on my schoolwork and web development, with a touch of web design when I have time.
+If you want to keep updated, I have a blog where I talk about what I'm learning (amongst other things) that you can read [here](https://austin.fo/blog)!
+You can also check out my [personal site](https://austin.fo/) to see where else you may find me.
