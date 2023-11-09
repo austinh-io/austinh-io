@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # 👋 I'm Austin Hagel, and this is my GitHub profile!
 My pronounds are _he/him/his_.
 
-Connect with me on [LinkedIn!](https://austin.fo/linkedin/)
+Connect with me on [LinkedIn](https://austin.fo/linkedin/)!
 
 # 🤔 What I'm Doing
 
