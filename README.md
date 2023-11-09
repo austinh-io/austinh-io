@@ -18,19 +18,19 @@ My pronounds are _he/him/his_.
 
 ## 🤔 What I'm Doing
 
-🎓 Finishing up college
-💻 Aspiring to work as a Web Developer
-🛍️ Working on a personal project: an ecommerce site frontend
-🌲 Learning front end frameworks like Svelte, Angular, and React (mostly Svelte right now)
-🖼️ Learning to become a better designer, along with tools like Figma
+- 🎓 Finishing up college
+- 💻 Aspiring to work as a Web Developer
+- 🛍️ Working on a personal project: an ecommerce site frontend
+- 🌲 Learning front end frameworks like Svelte, Angular, and React (mostly Svelte right now)
+- 🖼️ Learning to become a better designer, along with tools like Figma
 
 ## 😸 My Interests & Hobbies
 
-🖥️ Interested in learning backend development languages and frameworks like PHP/Laravel and/or NodeJS
-🎨 Learning art as a hobby
-🦾 Learning some 3D with particular interest in character modeling, rigging, & animation along with product mockups
-🏃 Interested in motion graphics with Adobe After Effects & Blender
-🎮 Making a video game is on my bucket list
+- 🖥️ Interested in learning backend development languages and frameworks like PHP/Laravel and/or NodeJS
+- 🎨 Learning art as a hobby
+- 🦾 Learning some 3D with particular interest in character modeling, rigging, & animation along with product mockups
+- 🏃 Interested in motion graphics with Adobe After Effects & Blender
+- 🎮 Making a video game is on my bucket list
 
 ## 📍 Where I Am
 
