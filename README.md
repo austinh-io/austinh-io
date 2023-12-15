@@ -1,5 +1,4 @@
 # 👋 Hello, I'm Austin Hagel
-_he/him/his_.
 
 I am a recent college graduate, specializing in web and cloud development. I am currently looking for work as an entry level/junior web developer.
 
