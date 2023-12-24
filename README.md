@@ -7,8 +7,8 @@ I am a recent college graduate, specializing in web and cloud development. I am 
 # 😸 My Interests & Hobbies
 
 - 🤹 Learning lots of new things for front end development (React, NextJS, SvelteKit)
-- 🖥️ Interested in learning backend development languages and frameworks like PHP/Laravel, NodeJS, GO, or Rust
-- 🎨 Learning art as a hobby
-- 🦾 Learning some 3D with particular interest in character modeling, rigging, & animation along with product mockups
-- 🏃 Interested in motion graphics with Adobe After Effects & Blender
-- 🎮 Making a video game is on my bucket list
+- 💡 Interested in learning backend development languages and frameworks like PHP/Laravel, NodeJS, GO, or Rust
+- 🎨 Art & drawing
+- 🦾 Learning 3D character modeling, rigging, animation and product mockups
+- 🏃 Motion graphics & effects with Adobe After Effects & Blender
+- 🎮 Making games with Godot
