@@ -14,9 +14,9 @@ I am a recent college graduate, specializing in web and cloud development. I am 
 - 🎮 Making games with Godot
 
 # 🤹 Skills
-| Languages | Frameworks | Soft Skills |
+| Languages | Frameworks/Libraries | Soft Skills |
 |---|---|---|
 | HTML | React | Customer Service |
 | CSS | Svelte | Communication |
-| JS | | Teamwork |
+| JS | Tailwind | Teamwork |
 | TS | | Collaboration |
