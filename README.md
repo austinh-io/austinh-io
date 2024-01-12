@@ -12,3 +12,8 @@ I am a recent college graduate, specializing in web and cloud development. I am 
 - 🦾 Learning 3D character modeling, rigging, animation and product mockups
 - 🏃 Motion graphics & effects with Adobe After Effects & Blender
 - 🎮 Making games with Godot
+
+| Col1 | Col2 | Col3 |
+|===|
+| Row1 | Row1 | Row1 |
+| Row2 | Row2 | Row2 |
