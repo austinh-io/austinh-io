@@ -16,9 +16,8 @@ I am a recent college graduate, specializing in web and cloud development. I am 
 # 🤹 Skills
 | Languages | Frameworks/Libraries | Soft Skills |
 |---|---|---|
-| HTML | React | Customer Service |
-| CSS | Svelte | Communication |
-| JS | Tailwind | Teamwork |
-| TS | | Collaboration |
-| SQL | | |
-| PHP | |
+| HTML/CSS | React | Customer Service |
+| JS/TS | Svelte | Communication |
+| SQL | Tailwind | Teamwork |
+| SQL | MySQL | Collaboration |
+| PHP | NodeJS | |
