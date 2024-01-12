@@ -14,6 +14,6 @@ I am a recent college graduate, specializing in web and cloud development. I am 
 - 🎮 Making games with Godot
 
 | Col1 | Col2 | Col3 |
-|===|
+|---|---|---|
 | Row1 | Row1 | Row1 |
 | Row2 | Row2 | Row2 |
