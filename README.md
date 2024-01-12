@@ -13,6 +13,7 @@ I am a recent college graduate, specializing in web and cloud development. I am 
 - 🏃 Motion graphics & effects with Adobe After Effects & Blender
 - 🎮 Making games with Godot
 
+<!--
 # 🤹 Skills
 | Languages | Frameworks/Libraries | Soft Skills |
 |---|---|---|
@@ -21,3 +22,4 @@ I am a recent college graduate, specializing in web and cloud development. I am 
 | SQL | Tailwind | Teamwork |
 | PHP | MySQL | Collaboration |
 |  | NodeJS | |
+-->
