@@ -13,7 +13,10 @@ I am a recent college graduate, specializing in web and cloud development. I am 
 - 🏃 Motion graphics & effects with Adobe After Effects & Blender
 - 🎮 Making games with Godot
 
-| Col1 | Col2 | Col3 |
+# 🤹 Skills
+| Languages | Frameworks | Soft Skills |
 |---|---|---|
-| Row1 | Row1 | Row1 |
-| Row2 | Row2 | Row2 |
+| HTML | React | Customer Service |
+| CSS | Svelte | Communication |
+| JS | | Teamwork |
+| TS | | Collaboration |
