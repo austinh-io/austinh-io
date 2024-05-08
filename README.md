@@ -2,7 +2,7 @@
 
 I am a recent college graduate, specializing in web and cloud development. I am currently looking for work as an entry level/junior web developer.
 
->Connect with me on [LinkedIn](https://i.austinh.io/linkedin/)!
+>Connect with me on [LinkedIn](https://astn.sh/linkedin/)!
 
 # 😸 My Interests & Hobbies
 
