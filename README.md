@@ -4,6 +4,7 @@ I am a recent college graduate, specializing in web and cloud development. I am 
 
 >Connect with me on [LinkedIn](https://astn.sh/linkedin/)!
 
+<!--
 # 😸 My Interests & Hobbies
 
 - 🤹 Learning lots of new things for front end development (React, NextJS, SvelteKit)
